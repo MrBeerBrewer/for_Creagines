@@ -1,0 +1,7 @@
+CREATE PROCEDURE AddUser (IN username varchar(50),
+IN email varchar(255),
+IN password varchar(250))
+
+BEGIN
+    insert into users (username,email,password) values (username ,email,password);
+END
