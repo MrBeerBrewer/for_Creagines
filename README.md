@@ -13,3 +13,7 @@ b. In SQL tab, execute 'insert_sp'<br />
 c. Download 'one.php' and configure your setts.<br />
 d. Download 'two.php' and configure as needed.<br />
 e. Done! Go back to unity and point the url to 'two.php'. Enjoy!
+
+<br />
+Does it work? </br />
+Sure. Take a look: https://youtu.be/dGrPzxi9xbA
