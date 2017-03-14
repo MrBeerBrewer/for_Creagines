@@ -17,3 +17,6 @@ e. Done! Go back to unity and point the url to 'two.php'. Enjoy!
 <br />
 Does it work? </br />
 Sure. Take a look: https://youtu.be/dGrPzxi9xbA
+
+<br />
+Note: Set the delim to $$ before you execute the procs.
