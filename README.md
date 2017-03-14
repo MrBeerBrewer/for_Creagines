@@ -11,10 +11,11 @@ Steps to clean up:<br />
 a. In SQL tab, execute 'create_users_table'<br />
 b. In SQL tab, execute 'insert_sp'<br />
 c. Download 'one.php' and configure your setts.<br />
-d. Download 'two.php' and configure as needed.<br />
-e. Done! Go back to unity and point the url to 'two.php'. Enjoy!
+d. Download 'two.php' and configure as needed. This is for inserting data.<br />
+e. Download 'three.php' and configure as needed. This is for selecting data. <br />
+e. Done! Go back to unity and point the url to 'two.php'. Enjoy! <br />
 
-<br />
+
 Does it work? </br />
 Sure. Take a look: https://youtu.be/dGrPzxi9xbA
 
