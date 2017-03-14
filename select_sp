@@ -1,0 +1,4 @@
+CREATE PROCEDURE SelectItems ()
+BEGIN
+SELECT ID, Name, Type,Cost FROM items;
+END;
